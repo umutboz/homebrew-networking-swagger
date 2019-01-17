@@ -3,7 +3,7 @@ class NetworkingSwagger < Formula
     homepage ""
     url "https://github.com/umutboz/networking-swagger/archive/1.0.tar.gz"
     version "1.0"
-    sha256 "31dde5d1e91c74edb61e466554bf6fe98bfb9d0cfb6ed0f7950f99d89465ffd2"
+    sha256 "1cf5b37094c0256006bb5ee5aba95eff1846b3828cf67f663d4fcb6c026352a0"
 
     # depends_on "cmake" => :build
 
